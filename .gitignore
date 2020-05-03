@@ -1,0 +1,9 @@
+#Git ignored files
+myconfig
+myconfig.sh
+gitcommit
+gitcommit.sh
+gitcommit/myconfig
+gitcommit/myconfig.sh
+gitsetup/myconfig
+gitsetup/myconfig.sh

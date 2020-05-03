@@ -2,7 +2,7 @@
 
 This repo is a collection of various generic Shell Scripts. I will keep on adding new scripts as and when I get new usecases to automate simple tasks.
 
-Used in Ubuntu / Debian based linux versions.
+It can be used for Ubuntu / Debian versions.
 
 *Till then stay tuned...*
 
